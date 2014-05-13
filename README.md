@@ -16,3 +16,11 @@ i_am_a_lambda = ->(param1, param2) {
 }
 ```
 
+
+some more shit here
+
+
+some other shit we do towards being able to run our new feature with no bugs
+
+
+of course, all the time we are writing tests and they move us closer to knowing 'when' we are 'done' and 'if' that shit even really works. Your tests are the only thing that will allow you to sleep at night and not miss deadlines or have 'regression' bugs continually come back, losing you confidence and customers and revenue and employees
