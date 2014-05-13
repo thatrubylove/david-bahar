@@ -8,7 +8,7 @@ Typically I like to define my 'interface' here via:
 
 ## Usage
 
-``ruby`
+```ruby
 # anything in here will be rendered as code, in this case, ruby code
 
 i_am_a_lambda = ->(param1, param2) {
